@@ -16,7 +16,7 @@ function loaded() {
 
 var x = 0;
 
-var titleText = ["DOWNLOAD", "TAMPER" , ];
+var titleText = ["DOWNLOAD", "TAMPER" , "THEN", "JOIN", "THE", "DISCORD", "SERVER",];
 
 function loop() {
 
